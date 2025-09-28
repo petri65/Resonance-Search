@@ -1,0 +1,20 @@
+
+# Core
+numpy>=1.22
+scipy>=1.10
+pandas>=2.0
+tqdm>=4.66
+
+# Embeddings
+sentence-transformers==3.0.1
+torch>=2.0.0
+
+# Data access
+datasets>=2.19.0           # Hugging Face datasets (for wikipedia dumps)
+huggingface_hub>=0.23.0
+
+# ANN index for scalable kNN
+hnswlib>=0.8.0
+
+# Optional: fast IO
+pyarrow>=14.0.2
