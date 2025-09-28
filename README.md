@@ -86,7 +86,7 @@ If you only see the CLI script, add resonance_core.py and resonance_ui.py from t
 
 
 Tips for Better Results:
-- Use specific seeds (e.g., “Veli-Pekka Ketola” instead of “Ketola”).
+- Use specific seeds (e.g., “Donald Trump” instead of “Trump”).
 - Add a language variant seed if helpful (e.g., ice hockey along with jääkiekko).
 - If results are sparse, try:
     - lowering τ slightly (--tau 0.25)
