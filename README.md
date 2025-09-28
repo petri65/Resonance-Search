@@ -119,8 +119,7 @@ gh auth login   # choose GitHub.com → HTTPS → Login with a web browser
 
 
 
-License & Contributions:
-- Licensed under MIT (or your choice—edit this line if you prefer a different license).
+Contributions:
 - PRs welcome! Please:
     - Keep virtualenvs and large model files out of the repo.
     - Include a short description and a quick way to test your change.
